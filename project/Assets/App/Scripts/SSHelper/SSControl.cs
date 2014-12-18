@@ -7,7 +7,7 @@ namespace SSHelper {
         
         private Script_SpriteStudio_PartsRoot _root;
         
-        public bool autoDestoryFlag = true;
+        public bool autoDestory = true;
         public System.Action<SSControl> onPlayEndCallback;
         public System.Action<SSControl, Library_SpriteStudio.KeyFrame.ValueUser.Data> onUserDataCallback;
         
@@ -58,7 +58,7 @@ namespace SSHelper {
                 this.onPlayEndCallback(this);
             }
 
-            if (this.autoDestoryFlag == true) {
+            if (this.autoDestory == true) {
                 this.Stop();
                 Destroy (this.gameObject);
             }
