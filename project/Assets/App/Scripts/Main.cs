@@ -6,7 +6,7 @@ public class Main : MonoBehaviour {
 	public SSHelper.SSManager effectManager;
 
     private string[] _list;
-    private SSHelper.SSEffect _curentEffect;
+    private SSHelper.SSControl _curentEffect;
 
 	// Use this for initialization
 	void Start () {

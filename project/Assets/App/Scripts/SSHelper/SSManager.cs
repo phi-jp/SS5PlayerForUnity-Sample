@@ -19,18 +19,27 @@ namespace SSHelper {
         }
         
         // Create Effect
-        public SSEffect CreateEffect(string path, int index=0) {
+        public SSControl CreateEffect(string path, int index=0) {
+            // control
+            var controlObject = new GameObject();
+            var effectView = this.effectViews [index];
+            controlObject.transform.parent = effectView.transform;
+
+            // effect
             var effectControl = (Resources.Load (path) as GameObject).GetComponent<Script_SpriteStudio_LinkPrefab>();
             var effectPrefab = effectControl.LinkPrefab as GameObject;
             var effectObject = Instantiate (effectPrefab, new Vector3(0f, 0f, 0f), Quaternion.identity) as GameObject;
-            var effectView = this.effectViews [index];
-            effectObject.transform.parent = effectView.transform;
-            effectObject.AddComponent<SSEffect> ();
+            effectObject.transform.parent = controlObject.transform;
 
-            var ssEffect = effectObject.GetComponent<SSEffect> ();
-            ssEffect.Stop ();
-            
-            return ssEffect;
+            // ss control
+            var control = controlObject.AddComponent<SSControl> ();
+            var root = effectObject.GetComponent<Script_SpriteStudio_PartsRoot>();
+            control.SetRoot (root);
+
+            // set name
+            controlObject.name = effectControl.name;
+                
+            return control;
         }
     }
 

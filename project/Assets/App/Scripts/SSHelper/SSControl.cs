@@ -3,16 +3,19 @@ using System.Collections;
 
 namespace SSHelper {
 
-    public class SSEffect : MonoBehaviour {
+    public class SSControl : MonoBehaviour {
         
         private Script_SpriteStudio_PartsRoot _root;
         
         public bool autoDestoryFlag = true;
-        public System.Action<GameObject> onPlayEndCallback;
-        public System.Action<GameObject, Library_SpriteStudio.KeyFrame.ValueUser.Data> onUserDataCallback;
+        public System.Action<SSControl> onPlayEndCallback;
+        public System.Action<SSControl, Library_SpriteStudio.KeyFrame.ValueUser.Data> onUserDataCallback;
         
         void Awake() {
-            this._root = this.gameObject.GetComponent<Script_SpriteStudio_PartsRoot>();
+        }
+
+        public void SetRoot(Script_SpriteStudio_PartsRoot root) {
+            this._root = root;
         }
         
         public void Play(int n, bool loop = false) {
@@ -52,16 +55,20 @@ namespace SSHelper {
         #region private
         private bool _OnPlayEndCallback(GameObject gameObject) {
             if (this.onPlayEndCallback != null) {
-                this.onPlayEndCallback(gameObject);
+                this.onPlayEndCallback(this);
+            }
+
+            if (this.autoDestoryFlag == true) {
+                this.Stop();
+                Destroy (this.gameObject);
             }
             
-            // Debug.Log (this.gameObject == gameObject); // true
-            return !this.autoDestoryFlag;
+            return false;
         }
         
-        private void _OnUserDataCallback(GameObject ObjectControl, string PartsName, Library_SpriteStudio.AnimationData AnimationDataParts, int AnimationNo, int FrameNoDecode, int FrameNoKeyData, Library_SpriteStudio.KeyFrame.ValueUser.Data Data, bool FlagWayBack) {
+        private void _OnUserDataCallback(GameObject gameObject, string PartsName, Library_SpriteStudio.AnimationData AnimationDataParts, int AnimationNo, int FrameNoDecode, int FrameNoKeyData, Library_SpriteStudio.KeyFrame.ValueUser.Data Data, bool FlagWayBack) {
             if (this.onUserDataCallback != null) {
-                this.onUserDataCallback(ObjectControl, Data);
+                this.onUserDataCallback(this, Data);
             }
         }
         #endregion
