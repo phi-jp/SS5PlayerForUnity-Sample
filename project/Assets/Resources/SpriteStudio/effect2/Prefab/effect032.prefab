@@ -1,0 +1,7275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Jet6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400002}
+  - 114: {fileID: 11400002}
+  m_Layer: 0
+  m_Name: Jet5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400004}
+  - 114: {fileID: 11400004}
+  m_Layer: 0
+  m_Name: Jet4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400006}
+  - 114: {fileID: 11400006}
+  m_Layer: 0
+  m_Name: Jet3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400008}
+  - 114: {fileID: 11400008}
+  m_Layer: 0
+  m_Name: Jet2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400010}
+  - 114: {fileID: 11400010}
+  m_Layer: 0
+  m_Name: Jet1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400012}
+  - 114: {fileID: 11400012}
+  m_Layer: 0
+  m_Name: lightline2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400014}
+  - 114: {fileID: 11400014}
+  m_Layer: 0
+  m_Name: lightline1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100016
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400016}
+  - 114: {fileID: 11400016}
+  m_Layer: 0
+  m_Name: ice6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400018}
+  - 114: {fileID: 11400018}
+  m_Layer: 0
+  m_Name: part6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100020
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400020}
+  - 114: {fileID: 11400020}
+  m_Layer: 0
+  m_Name: ice5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400022}
+  - 114: {fileID: 11400022}
+  m_Layer: 0
+  m_Name: part5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100024
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400024}
+  - 114: {fileID: 11400024}
+  m_Layer: 0
+  m_Name: ice4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400026}
+  - 114: {fileID: 11400026}
+  m_Layer: 0
+  m_Name: part4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100028
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400028}
+  - 114: {fileID: 11400028}
+  m_Layer: 0
+  m_Name: ice3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400030}
+  - 114: {fileID: 11400030}
+  m_Layer: 0
+  m_Name: part3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100032
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400032}
+  - 114: {fileID: 11400032}
+  m_Layer: 0
+  m_Name: ice2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400034}
+  - 114: {fileID: 11400034}
+  m_Layer: 0
+  m_Name: part2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100036
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400036}
+  - 114: {fileID: 11400036}
+  m_Layer: 0
+  m_Name: ice1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400038}
+  - 114: {fileID: 11400038}
+  m_Layer: 0
+  m_Name: part1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400040}
+  - 114: {fileID: 11400040}
+  m_Layer: 0
+  m_Name: effect032
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 13
+--- !u!4 &400002
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 12
+--- !u!4 &400004
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 11
+--- !u!4 &400006
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100006}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 10
+--- !u!4 &400008
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 9
+--- !u!4 &400010
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100010}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 8
+--- !u!4 &400012
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100012}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 7
+--- !u!4 &400014
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100014}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400040}
+  m_RootOrder: 6
+--- !u!4 &400016
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100016}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400018}
+  m_RootOrder: 0
+--- !u!4 &400018
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100018}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400016}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 5
+--- !u!4 &400020
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100020}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400022}
+  m_RootOrder: 0
+--- !u!4 &400022
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100022}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400020}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 4
+--- !u!4 &400024
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400026}
+  m_RootOrder: 0
+--- !u!4 &400026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100026}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400024}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 3
+--- !u!4 &400028
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400030}
+  m_RootOrder: 0
+--- !u!4 &400030
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100030}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400028}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 2
+--- !u!4 &400032
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100032}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400034}
+  m_RootOrder: 0
+--- !u!4 &400034
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100034}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400032}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 1
+--- !u!4 &400036
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400038}
+  m_RootOrder: 0
+--- !u!4 &400038
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100038}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400036}
+  m_Father: {fileID: 400040}
+  m_RootOrder: 0
+--- !u!4 &400040
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100040}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400038}
+  - {fileID: 400034}
+  - {fileID: 400030}
+  - {fileID: 400026}
+  - {fileID: 400022}
+  - {fileID: 400018}
+  - {fileID: 400014}
+  - {fileID: 400012}
+  - {fileID: 400010}
+  - {fileID: 400008}
+  - {fileID: 400006}
+  - {fileID: 400004}
+  - {fileID: 400002}
+  - {fileID: 400000}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 20
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 51, y: 7, z: 0}
+    - {x: 45.1333351, y: 5, z: 0}
+    - {x: 39.2666664, y: 2.99999976, z: 0}
+    - {x: 33.4000015, y: .999999881, z: 0}
+    - {x: 19.2000008, y: 4.5, z: 0}
+    - {x: 5, y: 8, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5, y: -113}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -63.6666641}
+      - {x: -19.333334, y: -62}
+      - {x: 15.333334, y: -1}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -41, y: -14.3333302}
+      - {x: -34.6666679, y: -8.99999714}
+      - {x: 30.6666679, y: -2}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -59, y: 35}
+      - {x: -50, y: 44}
+      - {x: 46, y: -3}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -34, y: -42}
+      - {x: 19, y: -36}
+      - {x: 73.5, y: -3}
+      - {x: -5, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 88, y: -116}
+      - {x: 101, y: -3}
+      - {x: -10, y: 0}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 10
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 19
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 23, y: 6, z: 0}
+    - {x: 18.4666672, y: 5, z: 0}
+    - {x: 13.9333324, y: 4, z: 0}
+    - {x: 9.39999962, y: 3, z: 0}
+    - {x: 11.6999998, y: 5.5, z: 0}
+    - {x: 14, y: 8, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 10.666667, y: -76.6666641}
+      - {x: 11, y: -75.3333359}
+      - {x: 8.33333397, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 15.333334, y: -37.3333321}
+      - {x: 26, y: -35.6666641}
+      - {x: 16.6666679, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 20, y: 2}
+      - {x: 41, y: 4}
+      - {x: 25, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 4.5, y: -58.5}
+      - {x: 37, y: -56}
+      - {x: 25, y: 0}
+      - {x: -5, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -11, y: -119}
+      - {x: 33, y: -116}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 7
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 18
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -5, y: 7, z: 0}
+    - {x: -2.6500001, y: 5.75, z: 0}
+    - {x: -.300000191, y: 4.5, z: 0}
+    - {x: 2.04999971, y: 3.25, z: 0}
+    - {x: 4.39999962, y: 1.99999988, z: 0}
+    - {x: -4.30000019, y: 4.5, z: 0}
+    - {x: -13, y: 7, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -6.75, y: -87.75}
+      - {x: -12.5, y: -86}
+      - {x: 0, y: 0}
+      - {x: -4, y: 0}
+    - Coordinate:
+      - {x: -19.5, y: -59.5}
+      - {x: -21, y: -57}
+      - {x: 0, y: 0}
+      - {x: -8, y: 0}
+    - Coordinate:
+      - {x: -32.25, y: -31.25}
+      - {x: -29.5, y: -28}
+      - {x: 0, y: 0}
+      - {x: -12, y: 0}
+    - Coordinate:
+      - {x: -45, y: -3}
+      - {x: -38, y: 1}
+      - {x: 0, y: 0}
+      - {x: -16, y: 0}
+    - Coordinate:
+      - {x: -27, y: -61}
+      - {x: -11, y: -58}
+      - {x: 12.5, y: 0}
+      - {x: -13, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 6
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 17
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: -28, y: 7, z: 0}
+    - {x: -28, y: 7, z: 0}
+    - {x: -28, y: 7, z: 0}
+    - {x: -28, y: 7, z: 0}
+    - {x: -28, y: 7, z: 0}
+    - {x: -28, y: 7, z: 0}
+    - {x: -20.5333328, y: 5, z: 0}
+    - {x: -13.0666666, y: 2.99999976, z: 0}
+    - {x: -5.60000038, y: .999999881, z: 0}
+    - {x: -23.7999992, y: 4, z: 0}
+    - {x: -42, y: 7, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -23, y: -114}
+      - {x: -8, y: -109}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -54, y: -95}
+      - {x: -49.6666679, y: -85}
+      - {x: 0, y: 0}
+      - {x: -25, y: .333333343}
+    - Coordinate:
+      - {x: -85, y: -76}
+      - {x: -91.3333359, y: -61}
+      - {x: 0, y: 0}
+      - {x: -50, y: .666666687}
+    - Coordinate:
+      - {x: -116, y: -57}
+      - {x: -133, y: -37}
+      - {x: 0, y: 0}
+      - {x: -75, y: 1}
+    - Coordinate:
+      - {x: -62.5, y: -88}
+      - {x: -58.5, y: -77}
+      - {x: 12.5, y: 0}
+      - {x: -42.5, y: .5}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 5
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 16
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: 68, y: 7, z: 0}
+    - {x: 68, y: 7, z: 0}
+    - {x: 68, y: 7, z: 0}
+    - {x: 66.8000031, y: 5.33333302, z: 0}
+    - {x: 65.5999985, y: 3.66666651, z: 0}
+    - {x: 64.4000015, y: 1.99999988, z: 0}
+    - {x: 60.7000008, y: 5.5, z: 0}
+    - {x: 57, y: 9, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 29.333334, y: -76}
+      - {x: 30.6666679, y: -80.3333359}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 52.6666679, y: -35.9999962}
+      - {x: 65.3333359, y: -45.6666641}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 76, y: 4}
+      - {x: 100, y: -11}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 26, y: -57.5}
+      - {x: 77.5, y: -64.5}
+      - {x: 23.5, y: 0}
+      - {x: -18, y: -.5}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    - Coordinate:
+      - {x: -24, y: -119}
+      - {x: 55, y: -118}
+      - {x: 47, y: 0}
+      - {x: -36, y: -1}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 2
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3620ad5558825444295142aac49efd21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 15
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    AnimationDataPosition:
+    - {x: 0, y: 5, z: 0}
+    - {x: 0, y: 5, z: 0}
+    - {x: 1.46666658, y: 4, z: 0}
+    - {x: 2.93333316, y: 2.99999976, z: 0}
+    - {x: 4.39999962, y: 1.99999988, z: 0}
+    - {x: 1.19999981, y: 5.5, z: 0}
+    - {x: -2, y: 9, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    - {x: -16, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    - .590000033
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection:
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: 6, y: -116}
+      - {x: -4, y: -115}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -5.33333349, y: -78.3333359}
+      - {x: -15.333334, y: -76.3333359}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -16.6666679, y: -40.6666641}
+      - {x: -26.6666679, y: -37.6666641}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -28, y: -3}
+      - {x: -38, y: 1}
+      - {x: 0, y: 0}
+      - {x: 0, y: 0}
+    - Coordinate:
+      - {x: -18.5, y: -61}
+      - {x: -11, y: -58}
+      - {x: 12.5, y: 0}
+      - {x: -5, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    - Coordinate:
+      - {x: -9, y: -119}
+      - {x: 16, y: -117}
+      - {x: 25, y: 0}
+      - {x: -10, y: 0}
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 1
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 128
+      Pivot: {x: 32, y: 120}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 14
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .285714298, y: .285714298}
+    - {x: .571428597, y: .571428597}
+    - {x: .857142866, y: .857142866}
+    - {x: 1.14285719, y: 1.14285719}
+    - {x: 1.42857146, y: 1.42857146}
+    - {x: 1.71428573, y: 1.71428573}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .25
+    - .5
+    - .75
+    - 1
+    - .666666627
+    - .333333313
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 36
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      Pivot: {x: 128, y: 128}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 13
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .285714298, y: .285714298}
+    - {x: .571428597, y: .571428597}
+    - {x: .857142866, y: .857142866}
+    - {x: 1.14285719, y: 1.14285719}
+    - {x: 1.42857146, y: 1.42857146}
+    - {x: 1.71428573, y: 1.71428573}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .25
+    - .5
+    - .75
+    - 1
+    - .666666627
+    - .333333313
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 36
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      Pivot: {x: 128, y: 128}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 12
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: -1.62770593, y: 7.06190968, z: 0}
+    - {x: -3.25541186, y: 14.1238194, z: 0}
+    - {x: -4.88311815, y: 21.18573, z: 0}
+    - {x: -6.51082373, y: 28.2476387, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -8.13852978, y: 35.3095474, z: 0}
+    - {x: -7.32467699, y: 47.7785912, z: 0}
+    - {x: -6.51082373, y: 60.2476387, z: 0}
+    - {x: -5.69697094, y: 72.7166824, z: 0}
+    - {x: -4.88311768, y: 85.18573, z: 0}
+    - {x: -4.06926489, y: 97.6547699, z: 0}
+    - {x: -3.25541162, y: 110.123825, z: 0}
+    - {x: -2.44155908, y: 122.592865, z: 0}
+    - {x: -1.62770581, y: 135.061905, z: 0}
+    - {x: -.813853145, y: 147.530945, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506561}
+    - {x: 0, y: 0, z: -175.506668}
+    - {x: 0, y: 0, z: -175.50679}
+    - {x: 0, y: 0, z: -175.506897}
+    - {x: 0, y: 0, z: -175.507019}
+    - {x: 0, y: 0, z: -175.507126}
+    - {x: 0, y: 0, z: -175.507248}
+    - {x: 0, y: 0, z: -175.507355}
+    - {x: 0, y: 0, z: -175.507477}
+    - {x: 0, y: 0, z: -175.507584}
+    - {x: 0, y: 0, z: -175.507706}
+    - {x: 0, y: 0, z: -175.507812}
+    - {x: 0, y: 0, z: -175.507935}
+    - {x: 0, y: 0, z: -175.508041}
+    - {x: 0, y: 0, z: -175.508163}
+    - {x: 0, y: 0, z: -175.50827}
+    - {x: 0, y: 0, z: -175.508392}
+    - {x: 0, y: 0, z: -175.508499}
+    - {x: 0, y: 0, z: -175.508621}
+    - {x: 0, y: 0, z: -175.508728}
+    - {x: 0, y: 0, z: -175.50885}
+    - {x: 0, y: 0, z: -175.508957}
+    - {x: 0, y: 0, z: -175.509079}
+    - {x: 0, y: 0, z: -175.509186}
+    - {x: 0, y: 0, z: -175.509308}
+    - {x: 0, y: 0, z: -175.509415}
+    - {x: 0, y: 0, z: -175.509537}
+    - {x: 0, y: 0, z: -175.509644}
+    - {x: 0, y: 0, z: -175.509766}
+    - {x: 0, y: 0, z: -175.509872}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -138.758987}
+    - {x: 0, y: 0, z: -102.007996}
+    - {x: 0, y: 0, z: -65.2569885}
+    - {x: 0, y: 0, z: -28.5059948}
+    - {x: 0, y: 0, z: 8.24500275}
+    - {x: 0, y: 0, z: 44.9960098}
+    - {x: 0, y: 0, z: 81.746994}
+    - {x: 0, y: 0, z: 118.498009}
+    - {x: 0, y: 0, z: 155.248993}
+    - {x: 0, y: 0, z: 192}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .560000002}
+    - {x: .237141356, y: 1.12}
+    - {x: .355712026, y: 1.68000007}
+    - {x: .474282712, y: 2.24000001}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 9
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 11
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    - {x: 49, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    - {x: 0, y: 0, z: 15}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 10
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 16, z: 0}
+    - {x: 0, y: 32, z: 0}
+    - {x: 0, y: 48, z: 0}
+    - {x: 0, y: 64, z: 0}
+    - {x: 0, y: 80, z: 0}
+    - {x: 0, y: 96, z: 0}
+    - {x: 0, y: 112, z: 0}
+    - {x: 0, y: 128, z: 0}
+    - {x: 0, y: 144, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506546}
+    - {x: 0, y: 0, z: -175.506653}
+    - {x: 0, y: 0, z: -175.50676}
+    - {x: 0, y: 0, z: -175.506851}
+    - {x: 0, y: 0, z: -175.506958}
+    - {x: 0, y: 0, z: -175.507065}
+    - {x: 0, y: 0, z: -175.507172}
+    - {x: 0, y: 0, z: -175.507278}
+    - {x: 0, y: 0, z: -175.507385}
+    - {x: 0, y: 0, z: -175.507492}
+    - {x: 0, y: 0, z: -175.507584}
+    - {x: 0, y: 0, z: -175.50769}
+    - {x: 0, y: 0, z: -175.507797}
+    - {x: 0, y: 0, z: -175.507904}
+    - {x: 0, y: 0, z: -175.508011}
+    - {x: 0, y: 0, z: -175.508118}
+    - {x: 0, y: 0, z: -175.508209}
+    - {x: 0, y: 0, z: -175.508316}
+    - {x: 0, y: 0, z: -175.508423}
+    - {x: 0, y: 0, z: -175.50853}
+    - {x: 0, y: 0, z: -175.508636}
+    - {x: 0, y: 0, z: -175.508743}
+    - {x: 0, y: 0, z: -175.50885}
+    - {x: 0, y: 0, z: -175.508942}
+    - {x: 0, y: 0, z: -175.509048}
+    - {x: 0, y: 0, z: -175.509155}
+    - {x: 0, y: 0, z: -175.509262}
+    - {x: 0, y: 0, z: -175.509369}
+    - {x: 0, y: 0, z: -175.509476}
+    - {x: 0, y: 0, z: -175.509583}
+    - {x: 0, y: 0, z: -175.509674}
+    - {x: 0, y: 0, z: -175.509781}
+    - {x: 0, y: 0, z: -175.509888}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -148.459}
+    - {x: 0, y: 0, z: -121.407997}
+    - {x: 0, y: 0, z: -94.3569946}
+    - {x: 0, y: 0, z: -67.3059921}
+    - {x: 0, y: 0, z: -40.2549973}
+    - {x: 0, y: 0, z: -13.2039909}
+    - {x: 0, y: 0, z: 13.8469982}
+    - {x: 0, y: 0, z: 40.8980026}
+    - {x: 0, y: 0, z: 67.9489975}
+    - {x: 0, y: 0, z: 95}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .460000008}
+    - {x: .237141356, y: .920000017}
+    - {x: .355712026, y: 1.38}
+    - {x: .474282712, y: 1.84000003}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    - {x: .592853367, y: 2.29999995}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 6
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400022
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 9
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    - {x: 21, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    - {x: 0, y: 0, z: -8}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400024
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 8
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 16, z: 0}
+    - {x: 0, y: 32, z: 0}
+    - {x: 0, y: 48, z: 0}
+    - {x: 0, y: 64, z: 0}
+    - {x: 0, y: 80, z: 0}
+    - {x: 0, y: 96, z: 0}
+    - {x: 0, y: 112, z: 0}
+    - {x: 0, y: 128, z: 0}
+    - {x: 0, y: 144, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506531}
+    - {x: 0, y: 0, z: -175.506638}
+    - {x: 0, y: 0, z: -175.506729}
+    - {x: 0, y: 0, z: -175.506836}
+    - {x: 0, y: 0, z: -175.506927}
+    - {x: 0, y: 0, z: -175.507034}
+    - {x: 0, y: 0, z: -175.507126}
+    - {x: 0, y: 0, z: -175.507233}
+    - {x: 0, y: 0, z: -175.507324}
+    - {x: 0, y: 0, z: -175.507431}
+    - {x: 0, y: 0, z: -175.507523}
+    - {x: 0, y: 0, z: -175.507629}
+    - {x: 0, y: 0, z: -175.507721}
+    - {x: 0, y: 0, z: -175.507828}
+    - {x: 0, y: 0, z: -175.507919}
+    - {x: 0, y: 0, z: -175.508026}
+    - {x: 0, y: 0, z: -175.508118}
+    - {x: 0, y: 0, z: -175.508209}
+    - {x: 0, y: 0, z: -175.508316}
+    - {x: 0, y: 0, z: -175.508408}
+    - {x: 0, y: 0, z: -175.508514}
+    - {x: 0, y: 0, z: -175.508606}
+    - {x: 0, y: 0, z: -175.508713}
+    - {x: 0, y: 0, z: -175.508804}
+    - {x: 0, y: 0, z: -175.508911}
+    - {x: 0, y: 0, z: -175.509003}
+    - {x: 0, y: 0, z: -175.509109}
+    - {x: 0, y: 0, z: -175.509201}
+    - {x: 0, y: 0, z: -175.509308}
+    - {x: 0, y: 0, z: -175.509399}
+    - {x: 0, y: 0, z: -175.509506}
+    - {x: 0, y: 0, z: -175.509598}
+    - {x: 0, y: 0, z: -175.509705}
+    - {x: 0, y: 0, z: -175.509796}
+    - {x: 0, y: 0, z: -175.509903}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -146.758987}
+    - {x: 0, y: 0, z: -118.007996}
+    - {x: 0, y: 0, z: -89.2569962}
+    - {x: 0, y: 0, z: -60.5059967}
+    - {x: 0, y: 0, z: -31.7549973}
+    - {x: 0, y: 0, z: -3.00399089}
+    - {x: 0, y: 0, z: 25.7469978}
+    - {x: 0, y: 0, z: 54.4980049}
+    - {x: 0, y: 0, z: 83.2489929}
+    - {x: 0, y: 0, z: 112}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .320000023}
+    - {x: .237141356, y: .640000045}
+    - {x: .355712026, y: .960000038}
+    - {x: .474282712, y: 1.28000009}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    - {x: .592853367, y: 1.60000002}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 4
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400026
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 7
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    - {x: -8, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    - {x: 0, y: 0, z: 9}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 6
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 16, z: 0}
+    - {x: 0, y: 32, z: 0}
+    - {x: 0, y: 48, z: 0}
+    - {x: 0, y: 64, z: 0}
+    - {x: 0, y: 80, z: 0}
+    - {x: 0, y: 96, z: 0}
+    - {x: 0, y: 112, z: 0}
+    - {x: 0, y: 128, z: 0}
+    - {x: 0, y: 144, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506531}
+    - {x: 0, y: 0, z: -175.506638}
+    - {x: 0, y: 0, z: -175.506729}
+    - {x: 0, y: 0, z: -175.506821}
+    - {x: 0, y: 0, z: -175.506912}
+    - {x: 0, y: 0, z: -175.507019}
+    - {x: 0, y: 0, z: -175.507111}
+    - {x: 0, y: 0, z: -175.507202}
+    - {x: 0, y: 0, z: -175.507309}
+    - {x: 0, y: 0, z: -175.507401}
+    - {x: 0, y: 0, z: -175.507492}
+    - {x: 0, y: 0, z: -175.507599}
+    - {x: 0, y: 0, z: -175.50769}
+    - {x: 0, y: 0, z: -175.507782}
+    - {x: 0, y: 0, z: -175.507874}
+    - {x: 0, y: 0, z: -175.50798}
+    - {x: 0, y: 0, z: -175.508072}
+    - {x: 0, y: 0, z: -175.508163}
+    - {x: 0, y: 0, z: -175.50827}
+    - {x: 0, y: 0, z: -175.508362}
+    - {x: 0, y: 0, z: -175.508453}
+    - {x: 0, y: 0, z: -175.50856}
+    - {x: 0, y: 0, z: -175.508652}
+    - {x: 0, y: 0, z: -175.508743}
+    - {x: 0, y: 0, z: -175.508835}
+    - {x: 0, y: 0, z: -175.508942}
+    - {x: 0, y: 0, z: -175.509033}
+    - {x: 0, y: 0, z: -175.509125}
+    - {x: 0, y: 0, z: -175.509232}
+    - {x: 0, y: 0, z: -175.509323}
+    - {x: 0, y: 0, z: -175.509415}
+    - {x: 0, y: 0, z: -175.509521}
+    - {x: 0, y: 0, z: -175.509613}
+    - {x: 0, y: 0, z: -175.509705}
+    - {x: 0, y: 0, z: -175.509796}
+    - {x: 0, y: 0, z: -175.509903}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -134.758987}
+    - {x: 0, y: 0, z: -94.0079956}
+    - {x: 0, y: 0, z: -53.2569923}
+    - {x: 0, y: 0, z: -12.5059938}
+    - {x: 0, y: 0, z: 28.2450027}
+    - {x: 0, y: 0, z: 68.9960098}
+    - {x: 0, y: 0, z: 109.746994}
+    - {x: 0, y: 0, z: 150.498001}
+    - {x: 0, y: 0, z: 191.248993}
+    - {x: 0, y: 0, z: 232}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .379999995}
+    - {x: .237141356, y: .75999999}
+    - {x: .355712026, y: 1.13999999}
+    - {x: .474282712, y: 1.51999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    - {x: .592853367, y: 1.89999998}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 3
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400030
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 5
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    - {x: -32, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    - {x: 0, y: 0, z: 51}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100032}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 4
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 16, z: 0}
+    - {x: 0, y: 32, z: 0}
+    - {x: 0, y: 48, z: 0}
+    - {x: 0, y: 64, z: 0}
+    - {x: 0, y: 80, z: 0}
+    - {x: 0, y: 96, z: 0}
+    - {x: 0, y: 112, z: 0}
+    - {x: 0, y: 128, z: 0}
+    - {x: 0, y: 144, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506531}
+    - {x: 0, y: 0, z: -175.506622}
+    - {x: 0, y: 0, z: -175.506714}
+    - {x: 0, y: 0, z: -175.506805}
+    - {x: 0, y: 0, z: -175.506897}
+    - {x: 0, y: 0, z: -175.506989}
+    - {x: 0, y: 0, z: -175.50708}
+    - {x: 0, y: 0, z: -175.507172}
+    - {x: 0, y: 0, z: -175.507263}
+    - {x: 0, y: 0, z: -175.507355}
+    - {x: 0, y: 0, z: -175.507446}
+    - {x: 0, y: 0, z: -175.507538}
+    - {x: 0, y: 0, z: -175.507629}
+    - {x: 0, y: 0, z: -175.507721}
+    - {x: 0, y: 0, z: -175.507812}
+    - {x: 0, y: 0, z: -175.507904}
+    - {x: 0, y: 0, z: -175.507996}
+    - {x: 0, y: 0, z: -175.508087}
+    - {x: 0, y: 0, z: -175.508179}
+    - {x: 0, y: 0, z: -175.508255}
+    - {x: 0, y: 0, z: -175.508347}
+    - {x: 0, y: 0, z: -175.508438}
+    - {x: 0, y: 0, z: -175.50853}
+    - {x: 0, y: 0, z: -175.508621}
+    - {x: 0, y: 0, z: -175.508713}
+    - {x: 0, y: 0, z: -175.508804}
+    - {x: 0, y: 0, z: -175.508896}
+    - {x: 0, y: 0, z: -175.508987}
+    - {x: 0, y: 0, z: -175.509079}
+    - {x: 0, y: 0, z: -175.509171}
+    - {x: 0, y: 0, z: -175.509262}
+    - {x: 0, y: 0, z: -175.509354}
+    - {x: 0, y: 0, z: -175.509445}
+    - {x: 0, y: 0, z: -175.509537}
+    - {x: 0, y: 0, z: -175.509628}
+    - {x: 0, y: 0, z: -175.50972}
+    - {x: 0, y: 0, z: -175.509811}
+    - {x: 0, y: 0, z: -175.509903}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -149.459}
+    - {x: 0, y: 0, z: -123.407997}
+    - {x: 0, y: 0, z: -97.3569946}
+    - {x: 0, y: 0, z: -71.3059921}
+    - {x: 0, y: 0, z: -45.2549973}
+    - {x: 0, y: 0, z: -19.2039909}
+    - {x: 0, y: 0, z: 6.84699869}
+    - {x: 0, y: 0, z: 32.8980026}
+    - {x: 0, y: 0, z: 58.9489937}
+    - {x: 0, y: 0, z: 85}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .560000002}
+    - {x: .237141356, y: 1.12}
+    - {x: .355712026, y: 1.68000007}
+    - {x: .474282712, y: 2.24000001}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    - {x: .592853367, y: 2.79999995}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 1
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 3
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    - {x: 64, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    - {x: 0, y: 0, z: -40}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 2
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 16, z: 0}
+    - {x: 0, y: 32, z: 0}
+    - {x: 0, y: 48, z: 0}
+    - {x: 0, y: 64, z: 0}
+    - {x: 0, y: 80, z: 0}
+    - {x: 0, y: 96, z: 0}
+    - {x: 0, y: 112, z: 0}
+    - {x: 0, y: 128, z: 0}
+    - {x: 0, y: 144, z: 0}
+    - {x: 0, y: 160, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: -175.506439}
+    - {x: 0, y: 0, z: -175.506531}
+    - {x: 0, y: 0, z: -175.506622}
+    - {x: 0, y: 0, z: -175.506699}
+    - {x: 0, y: 0, z: -175.50679}
+    - {x: 0, y: 0, z: -175.506882}
+    - {x: 0, y: 0, z: -175.506973}
+    - {x: 0, y: 0, z: -175.507065}
+    - {x: 0, y: 0, z: -175.507156}
+    - {x: 0, y: 0, z: -175.507233}
+    - {x: 0, y: 0, z: -175.507324}
+    - {x: 0, y: 0, z: -175.507416}
+    - {x: 0, y: 0, z: -175.507507}
+    - {x: 0, y: 0, z: -175.507599}
+    - {x: 0, y: 0, z: -175.50769}
+    - {x: 0, y: 0, z: -175.507767}
+    - {x: 0, y: 0, z: -175.507858}
+    - {x: 0, y: 0, z: -175.50795}
+    - {x: 0, y: 0, z: -175.508041}
+    - {x: 0, y: 0, z: -175.508133}
+    - {x: 0, y: 0, z: -175.508209}
+    - {x: 0, y: 0, z: -175.508301}
+    - {x: 0, y: 0, z: -175.508392}
+    - {x: 0, y: 0, z: -175.508484}
+    - {x: 0, y: 0, z: -175.508575}
+    - {x: 0, y: 0, z: -175.508667}
+    - {x: 0, y: 0, z: -175.508743}
+    - {x: 0, y: 0, z: -175.508835}
+    - {x: 0, y: 0, z: -175.508926}
+    - {x: 0, y: 0, z: -175.509018}
+    - {x: 0, y: 0, z: -175.509109}
+    - {x: 0, y: 0, z: -175.509201}
+    - {x: 0, y: 0, z: -175.509277}
+    - {x: 0, y: 0, z: -175.509369}
+    - {x: 0, y: 0, z: -175.50946}
+    - {x: 0, y: 0, z: -175.509552}
+    - {x: 0, y: 0, z: -175.509644}
+    - {x: 0, y: 0, z: -175.509735}
+    - {x: 0, y: 0, z: -175.509811}
+    - {x: 0, y: 0, z: -175.509903}
+    - {x: 0, y: 0, z: -175.509995}
+    - {x: 0, y: 0, z: -141.358994}
+    - {x: 0, y: 0, z: -107.207993}
+    - {x: 0, y: 0, z: -73.0569916}
+    - {x: 0, y: 0, z: -38.9059944}
+    - {x: 0, y: 0, z: -4.75499725}
+    - {x: 0, y: 0, z: 29.3960094}
+    - {x: 0, y: 0, z: 63.5469971}
+    - {x: 0, y: 0, z: 97.6980057}
+    - {x: 0, y: 0, z: 131.848999}
+    - {x: 0, y: 0, z: 166}
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: .118570678, y: .200000003}
+    - {x: .237141356, y: .400000006}
+    - {x: .355712026, y: .600000024}
+    - {x: .474282712, y: .800000012}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    - {x: .592853367, y: 1}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - .800000012
+    - .600000024
+    - .399999976
+    - .199999988
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 0
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      Pivot: {x: 64, y: 64}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400038
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 1
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    - {x: 0, y: 0, z: 8}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400040}
+  FlagHideForce: 0
+--- !u!114 &11400040
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d78cd92cf2c3c984ebd27edfadc6b9ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 0
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition: []
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate: []
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ListInformationPlay:
+  - Name: icetrap
+    FrameStart: 0
+    FrameEnd: 50
+    FramePerSecond: 30
+    Label: []
+  RateTimeAnimation: 1
+  NameLabelStart: _start
+  NameLabelEnd: _end
+  OffsetFrameStart: 0
+  OffsetFrameEnd: 0
+  FlagHideForce: 0
+  FlagStylePingpong: 0
+  CountLoopRemain: -1
+  animationNo: 0
+  frameNoInitial: 0
+  TableMaterial:
+  - {fileID: 2100000, guid: 07cd17b96465741c7a731f7a5398ccfb, type: 2}
+  - {fileID: 2100000, guid: e8f38be2be91f4be9ad5f9190982cebb, type: 2}
+  - {fileID: 2100000, guid: 4c99c180aff634c9c8ea5bbc51648a1f, type: 2}
+  - {fileID: 2100000, guid: ea251b56dd94443aa91ec816af9d3883, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100040}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

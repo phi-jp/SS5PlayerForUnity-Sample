@@ -1,0 +1,2351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Sonicboom2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100002
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400002}
+  - 114: {fileID: 11400002}
+  m_Layer: 0
+  m_Name: Sonicboom1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100004
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400004}
+  - 114: {fileID: 11400004}
+  m_Layer: 0
+  m_Name: Capsule2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100006
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400006}
+  - 114: {fileID: 11400006}
+  m_Layer: 0
+  m_Name: part_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100008
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400008}
+  - 114: {fileID: 11400008}
+  m_Layer: 0
+  m_Name: Capsule1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100010
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400010}
+  - 114: {fileID: 11400010}
+  m_Layer: 0
+  m_Name: Ball
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400012}
+  - 114: {fileID: 11400012}
+  m_Layer: 0
+  m_Name: part_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &100014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400014}
+  - 114: {fileID: 11400014}
+  m_Layer: 0
+  m_Name: effect011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400012}
+  m_RootOrder: 4
+--- !u!4 &400002
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400012}
+  m_RootOrder: 3
+--- !u!4 &400004
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400006}
+  m_RootOrder: 0
+--- !u!4 &400006
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100006}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400004}
+  m_Father: {fileID: 400012}
+  m_RootOrder: 2
+--- !u!4 &400008
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400012}
+  m_RootOrder: 1
+--- !u!4 &400010
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100010}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400012}
+  m_RootOrder: 0
+--- !u!4 &400012
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100012}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400010}
+  - {fileID: 400008}
+  - {fileID: 400006}
+  - {fileID: 400002}
+  - {fileID: 400000}
+  m_Father: {fileID: 400014}
+  m_RootOrder: 0
+--- !u!4 &400014
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100014}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 400012}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 7
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: -40, y: 0, z: 0}
+    - {x: -80, y: 0, z: 0}
+    - {x: -106.666664, y: 0, z: 0}
+    - {x: -133.333328, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .200000003, y: .400000006}
+    - {x: .400000006, y: .800000012}
+    - {x: .600000024, y: 1.20000005}
+    - {x: .800000012, y: 1.60000002}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    - {x: 1, y: 2}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .5
+    - 1
+    - .666666627
+    - .333333313
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 12
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      Pivot: {x: 128, y: 128}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 6
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: -40, y: 0, z: 0}
+    - {x: -80, y: 0, z: 0}
+    - {x: -106.666664, y: 0, z: 0}
+    - {x: -133.333328, y: 0, z: 0}
+    - {x: -160, y: 0, z: 0}
+    - {x: -196, y: 0, z: 0}
+    - {x: -232, y: 0, z: 0}
+    - {x: -268, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    - {x: -304, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: .200000003, y: .400000006}
+    - {x: .400000006, y: .800000012}
+    - {x: .600000024, y: 1.20000005}
+    - {x: .800000012, y: 1.60000002}
+    - {x: 1, y: 2}
+    - {x: 1.125, y: 2.25}
+    - {x: 1.25, y: 2.5}
+    - {x: 1.375, y: 2.75}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    - {x: 1.5, y: 3}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .5
+    - 1
+    - .857142866
+    - .714285731
+    - .571428537
+    - .428571403
+    - .285714269
+    - .142857134
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 11
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      Pivot: {x: 128, y: 128}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 5
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 166.400009, y: 0, z: 0}
+    - {x: 332.800018, y: 0, z: 0}
+    - {x: 499.200012, y: 0, z: 0}
+    - {x: 665.600037, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: 0, y: 1}
+    - {x: .0455729179, y: 1}
+    - {x: .0911458358, y: 1}
+    - {x: .13671875, y: 1}
+    - {x: .182291672, y: 1}
+    - {x: .227864578, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: 3.13437533, y: .931249976}
+    - {x: 5.99531317, y: .862500012}
+    - {x: 8.85625076, y: .793749988}
+    - {x: 11.7171888, y: .725000024}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .560000002}
+    - {x: 14.578126, y: .419999987}
+    - {x: 14.578126, y: .279999971}
+    - {x: 14.578126, y: .139999986}
+    - {x: 14.578126, y: 0}
+    - {x: 14.578126, y: 0}
+    - {x: 14.578126, y: 0}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .200000003
+    - .400000006
+    - .600000024
+    - .800000012
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 11
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 128
+        height: 64
+      Pivot: {x: 64, y: 32}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 4
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    - {x: .899999976, y: .699999988}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 3
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 1
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 166.400009, y: 0, z: 0}
+    - {x: 332.800018, y: 0, z: 0}
+    - {x: 499.200012, y: 0, z: 0}
+    - {x: 665.600037, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    - {x: 832, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: .2734375, y: 1}
+    - {x: 3.13437533, y: .931249976}
+    - {x: 5.99531317, y: .862500012}
+    - {x: 8.85625076, y: .793749988}
+    - {x: 11.7171888, y: .725000024}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .65625}
+    - {x: 14.578126, y: .699999988}
+    - {x: 14.578126, y: .560000002}
+    - {x: 14.578126, y: .419999987}
+    - {x: 14.578126, y: .279999971}
+    - {x: 14.578126, y: .139999986}
+    - {x: 14.578126, y: 0}
+    - {x: 14.578126, y: 0}
+    - {x: 14.578126, y: 0}
+    - {x: 14.578126, y: 0}
+    AnimationDataOpacityRate:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - .200000003
+    - .400000006
+    - .600000024
+    - .800000012
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend:
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    - Bound: 1
+      Operation: 1
+      VertexColor:
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      - {r: .0117647061, g: .368627459, b: .945098042, a: .988235295}
+      RatePixelAlpha:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 11
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 128
+        height: 64
+      Pivot: {x: 64, y: 32}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd9d6f245639d8046b97531f5d859829, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 2
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation: []
+    AnimationDataScaling:
+    - {x: 0, y: 0}
+    - {x: .25, y: .25}
+    - {x: .5, y: .5}
+    - {x: .75, y: .75}
+    - {x: 1, y: 1}
+    - {x: 1.10000002, y: 1.10000002}
+    - {x: 1, y: 1}
+    - {x: 1.10000002, y: 1.10000002}
+    - {x: 1, y: 1}
+    - {x: 1.10000002, y: 1.10000002}
+    - {x: 1, y: 1}
+    - {x: 1.10000002, y: 1.10000002}
+    - {x: 1.16666675, y: 1.16666675}
+    - {x: 1.23333335, y: 1.23333335}
+    - {x: 1.29999995, y: 1.29999995}
+    - {x: 1.36666667, y: 1.36666667}
+    - {x: 1.43333328, y: 1.43333328}
+    - {x: 1.5, y: 1.5}
+    - {x: 1.35000002, y: 1.35000002}
+    - {x: 1.20000005, y: 1.20000005}
+    - {x: 1.04999995, y: 1.04999995}
+    - {x: .899999976, y: .899999976}
+    - {x: .75, y: .75}
+    - {x: .599999964, y: .599999964}
+    - {x: .450000018, y: .450000018}
+    - {x: .299999982, y: .299999982}
+    - {x: .150000036, y: .150000036}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell:
+    - FrameNoBase: 0
+      TextureNo: 0
+      Rectangle:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      Pivot: {x: 128, y: 128}
+      SizeOriginal: {x: 1024, y: 1024}
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+    KindBlendTarget: 2
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395e08b708f039c4db57fa9df6d37d91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 1
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    AnimationDataRotation:
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    - {x: 0, y: 0, z: 180}
+    AnimationDataScaling: []
+    AnimationDataOpacityRate:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ScriptRoot: {fileID: 11400014}
+  FlagHideForce: 0
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d78cd92cf2c3c984ebd27edfadc6b9ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteStudioData:
+    ID: 0
+    CollisionKind: 0
+    CollisionComponent: {fileID: 0}
+    AnimationDataFlags:
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    - Flag: 0
+    AnimationDataPosition: []
+    AnimationDataRotation: []
+    AnimationDataScaling: []
+    AnimationDataOpacityRate: []
+    AnimationDataPriority: []
+    AnimationDataColorBlend: []
+    AnimationDataVertexCorrection: []
+    AnimationDataOriginOffset: []
+    AnimationDataAnchorPosition: []
+    AnimationDataAnchorSize: []
+    AnimationDataTextureTranslate: []
+    AnimationDataTextureRotate: []
+    AnimationDataTextureScale: []
+    AnimationDataTextureExpand: []
+    AnimationDataCollisionRadius: []
+    AnimationDataCell: 
+    AnimationDataUser: 
+    AnimationDataInstance: 
+    ArrayDataBodyCell: []
+    ArrayDataBodyUser: []
+    ArrayDataBodyInstance: []
+  ListInformationPlay:
+  - Name: lazer
+    FrameStart: 0
+    FrameEnd: 39
+    FramePerSecond: 30
+    Label: []
+  RateTimeAnimation: 1
+  NameLabelStart: _start
+  NameLabelEnd: _end
+  OffsetFrameStart: 0
+  OffsetFrameEnd: 0
+  FlagHideForce: 0
+  FlagStylePingpong: 0
+  CountLoopRemain: -1
+  animationNo: 0
+  frameNoInitial: 0
+  TableMaterial:
+  - {fileID: 2100000, guid: 07cd17b96465741c7a731f7a5398ccfb, type: 2}
+  - {fileID: 2100000, guid: e8f38be2be91f4be9ad5f9190982cebb, type: 2}
+  - {fileID: 2100000, guid: 4c99c180aff634c9c8ea5bbc51648a1f, type: 2}
+  - {fileID: 2100000, guid: ea251b56dd94443aa91ec816af9d3883, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100014}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

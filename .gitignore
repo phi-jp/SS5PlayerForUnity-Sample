@@ -1,0 +1,16 @@
+# unity
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# vs / mono
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
